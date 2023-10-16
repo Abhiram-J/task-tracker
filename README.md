@@ -1,16 +1,16 @@
-
-## Development in Progress...
-
 ## Available Scripts
 
-In the project directory, you can run:
+Install all the required packages :
 
-### `npm install`
+`npm install`
 
-Installs all the dependencies for the app.
+Start the app server :
 
-### `npm start`
+ `npm start`
 
-Runs the app in the development mode\
+Start the json-server :
+
+`npm run serve`
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
